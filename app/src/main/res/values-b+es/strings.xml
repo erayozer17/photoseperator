@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoSep</string>
+
+    <string name="klasor_adi">Nombre de la carpeta</string>
+    <string name="olustur">Comienzo</string>
+    <string name="bilgi">Organice tus fotos!\n\nEscriba el nombre de la carpeta que desee en la sección necesaria y pulse el botón de inicio. Cada foto que tome irá a esa carpeta en lugar de la carpeta general de la cámara\n</string>
+    <string name="klasor_olusturulamadı">La carpeta no se ha creado. Asegúrese de dar el permiso correspondiente.</string>
+    <string name="kaydedildi"> -salvado</string>
+    <string name="tamam">BUENO</string>
+
+    <string name="kamera_izni_gerekli">Debe conceder permiso de uso de la cámara para utilizar su cámara.</string>
+    <string name="izinleri_verdiginden_emin_ol">Asegúrese de haber concedido permisos de cámara y almacenamiento. Inicie la aplicación para conceder permisos.</string>
+    <string name="depolama_izni_gerekli">Debe conceder permiso de almacenamiento.</string>
+</resources>

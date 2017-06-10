@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhotoSep</string>
+
+    <string name="klasor_adi">Klasör Adı</string>
+    <string name="olustur">Başla</string>
+    <string name="bilgi">Fotoğraflarınızı organize edin!\n\nKlasör adı kutusuna, fotoğrafınızı kaydetmek istediğiniz klasörün adını yazın ve başla tuşuna basın.Çektiğiniz her fotoğraf kamera klasörü yerine bu klasöre kaydolacaktır.\n</string>
+    <string name="klasor_olusturulamadı">Klasör oluşturulamadı. Gereken izni verdiğinizden emin olun.</string>
+    <string name="kaydedildi"> -klasörüne kaydedildi</string>
+    <string name="tamam">TAMAM</string>
+
+    <string name="kamera_izni_gerekli">Uygulamayı kullanmak için kamera izni vermelisiniz.</string>
+    <string name="izinleri_verdiginden_emin_ol">Kamera ve depolama izinlerini verdiğinizden emin olun. İzinleri vermek için uygulamayı başlatın.</string>
+    <string name="depolama_izni_gerekli">Hafızaya erişim izni vermeniz gerekiyor.</string>
+</resources>
+

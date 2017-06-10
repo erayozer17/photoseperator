@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:clickable="true"
+    android:focusableInTouchMode="true"
+    tools:context="photosep.example.eray.photosep.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusableInTouchMode="true">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@android:drawable/ic_dialog_info"
+            android:id="@+id/imageView4"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@mipmap/logo"
+        android:layout_marginTop="32dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView" />
+
+    <TextView
+        android:text="@string/app_name"
+        android:layout_width="match_parent"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:textIsSelectable="false"
+        android:textColor="#DF5466"
+        android:layout_marginTop="-16dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3" />
+
+    <AutoCompleteTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="@string/klasor_adi"
+        android:textColorHint="#000"
+        android:textColorHighlight="@color/colorPrimaryDark"
+        android:background="#aaa"
+        android:alpha="0.7"
+        android:textSize="32sp"
+        android:textAlignment="center"
+        android:layout_marginTop="48dp"
+        android:ems="10"
+        android:id="@+id/editText" />
+
+    <Button
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:text="@string/olustur"
+        android:textAllCaps="true"
+        android:background="?attr/colorAccent"
+        android:id="@+id/button2" />
+
+</LinearLayout>

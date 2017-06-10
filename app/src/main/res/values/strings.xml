@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoSep</string>
+
+    <string name="klasor_adi">Folder Name</string>
+    <string name="olustur">Start</string>
+    <string name="bilgi">Organize your photos!\n\nType your desired folder name in necessary section and hit start button.Every photo you take will go to that folder instead of general camera folder.\n</string>
+    <string name="klasor_olusturulamadı">Folder is not created. Make sure you gave related permisson.</string>
+    <string name="kaydedildi"> -saved</string>
+    <string name="tamam">OKAY</string>
+    
+    <string name="kamera_izni_gerekli">You need to grant camera usage permisson in order to use your camera.</string>
+    <string name="izinleri_verdiginden_emin_ol">Make sure you have granted camera and storage permissions. Start the app for granting permissions.</string>
+    <string name="depolama_izni_gerekli">You need to grant storage permisson.</string>
+</resources>

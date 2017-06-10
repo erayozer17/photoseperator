@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoSep</string>
+
+    <string name="klasor_adi">Ordnernamen</string>
+    <string name="olustur">Anfang</string>
+    <string name="bilgi">Organisieren Sie Ihre Fotos!\n\nGeben Sie Ihren gewünschten Ordnernamen in notwendigen Abschnitt und klicken Sie auf Start button.Every Foto, das Sie nehmen, um diesen Ordner statt der allgemeinen Kamera-Ordner\n</string>
+    <string name="klasor_olusturulamadı">Ordner wird nicht erstellt. Stellen Sie sicher, dass Sie die entsprechende Berechtigung erteilt haben.</string>
+    <string name="kaydedildi"> -Gerettet</string>
+    <string name="tamam">in Ordnung</string>
+
+    <string name="kamera_izni_gerekli">Sie müssen die Kamera-Nutzungsberechtigung für die Verwendung Ihrer Kamera gewähren.</string>
+    <string name="izinleri_verdiginden_emin_ol">Stellen Sie sicher, dass Sie Kamera- und Speicherberechtigungen erteilt haben. Starten Sie die App für die Erteilung von Berechtigungen.</string>
+    <string name="depolama_izni_gerekli">Sie müssen Speicherberechtigung erteilen.</string>
+</resources>
