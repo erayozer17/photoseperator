@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoSep</string>
+
+    <string name="klasor_adi">文件夹名称</string>
+    <string name="olustur">开始</string>
+    <string name="bilgi">整理您的照片！\n \n在必要的部分中输入所需的文件夹名称，然后点击开始按钮。您拍摄的照片将转到该文件夹，而不是一般的相机文件夹。\n</string>
+    <string name="klasor_olusturulamadı">不创建文件夹。 确保你有相关的许可。</string>
+    <string name="kaydedildi"> -保存</string>
+    <string name="tamam">好的</string>
+    
+    <string name="kamera_izni_gerekli">您需要授予相机使用权限才能使用相机。</string>
+    <string name="izinleri_verdiginden_emin_ol">确保您已授予相机和存储权限。 启动应用程序以授予权限。</string>
+    <string name="depolama_izni_gerekli">您需要授予存储权限。</string>
+</resources>

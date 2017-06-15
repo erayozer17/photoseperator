@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoSep</string>
+
+    <string name="klasor_adi">إسم الملف</string>
+    <string name="olustur">بداية</string>
+    <string name="bilgi">يمكنك تنظيم صورك!\n\n اكتب اسم المجلد المطلوب في القسم الضروري واضغط على زر البدء.كل صورة تلتقطها ستذهب إلى هذا المجلد بدلا من مجلد الكاميرا العامة. \n</string>
+    <string name="klasor_olusturulamadı">لم يتم إنشاء المجلد. تأكد من منحك إذنا بذلك.</string>
+    <string name="kaydedildi"> -تم الحفظ</string>
+    <string name="tamam">حسنا</string>
+    
+    <string name="kamera_izni_gerekli">تحتاج إلى منح إذن استخدام الكاميرا من أجل استخدام الكاميرا.</string>
+    <string name="izinleri_verdiginden_emin_ol">تأكد من أنك قد منحت الكاميرا وأذونات التخزين. بدء تشغيل التطبيق لمنح أذونات.</string>
+    <string name="depolama_izni_gerekli">تحتاج إلى منح إذن التخزين.</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoSep</string>
+
+    <string name="klasor_adi">Имя папки</string>
+    <string name="olustur">Начало</string>
+    <string name="bilgi">Организуйте свои фотографии!\n\nnВыберите нужное имя папки в нужном разделе и нажмите кнопку запуска. Каждая фотография, которую вы берете, пойдет в эту папку вместо общей папки камеры.\n</string>
+    <string name="klasor_olusturulamadı">Папка не создана. Убедитесь, что вы дали соответствующее разрешение.</string>
+    <string name="kaydedildi"> -сохранены</string>
+    <string name="tamam">ХОРОШО</string>
+
+    <string name="kamera_izni_gerekli">Вам необходимо предоставить разрешение на использование камеры, чтобы использовать вашу камеру.</string>
+    <string name="izinleri_verdiginden_emin_ol">Убедитесь, что вы предоставили разрешения камеры и хранилища. Запустите приложение для предоставления разрешений.</string>
+    <string name="depolama_izni_gerekli">Вам необходимо предоставить разрешение на хранение.</string>
+</resources>

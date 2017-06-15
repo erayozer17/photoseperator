@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoSep</string>
+
+    <string name="klasor_adi">Nom de dossier</string>
+    <string name="olustur">Début</string>
+    <string name="bilgi">Organisez vos photos!\n\nTypez votre nom de dossier souhaité dans la section nécessaire et appuyez sur le bouton de démarrage. Toutes les photos que vous prenez vont dans ce dossier au lieu du dossier général de caméra. \n</string>
+    <string name="klasor_olusturulamadı">Le dossier n\'est pas créé. Assurez-vous d\'avoir donné une autorisation connexe.</string>
+    <string name="kaydedildi"> -enregistré</string>
+    <string name="tamam">D\'ACCORD</string>
+    
+    <string name="kamera_izni_gerekli">Vous devez accorder l\'autorisation d\'utilisation de la caméra pour utiliser votre appareil photo.</string>
+    <string name="izinleri_verdiginden_emin_ol">Assurez-vous d\'accorder des autorisations de caméras et de stockage. Démarrez l\'application pour accorder des autorisations.</string>
+    <string name="depolama_izni_gerekli">Vous devez accorder l\'autorisation de stockage.</string>
+</resources>
